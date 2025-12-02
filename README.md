@@ -18,6 +18,10 @@ Email Me 👉 ✉️ mtayyabsajjad76@gmail.com For Collaboration/Project or Anyt
 😄 Pronouns: HT7
 
 ⚡ Fun fact: I Love Tech and Tech Love Me
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tayyabsajjad76&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tayabsajjadoffical) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_tayyab043) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyabsajjadoffical) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/m-tayyab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mtayyabsajjad76@gmail.com) 
 
@@ -32,8 +36,6 @@ Email Me 👉 ✉️ mtayyabsajjad76@gmail.com For Collaboration/Project or Anyt
 ![](https://nirzak-streak-stats.vercel.app/?user=tayyabsajjad76&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tayyabsajjad76&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tayyabsajjad76&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=tayyabsajjad76&limit=5&theme=dark&combine_all_yearly_contributions=true)
