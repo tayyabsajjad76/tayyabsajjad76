@@ -17,8 +17,6 @@ Email Me 👉 ✉️ mtayyabsajjad76@gmail.com For Collaboration/Project or Anyt
 
 📫 **How to reach me:** [mtayyabsajjad76@gmail.com](mailto:mtayyabsajjad76@gmail.com)
 
-- 😄 **Pronouns:** HT7
-
 😄 Pronouns: HT7
 
 ⚡ Fun fact: I Love Tech and Tech Love Me
