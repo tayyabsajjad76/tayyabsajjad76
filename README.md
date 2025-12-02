@@ -1,13 +1,22 @@
 Hi 💫 👋, I'm Tayyab Sajjad
 A passionate FullStack Web Developer || App Developer || Future Cloud Security Architect ||
+
 Email Me 👉 ✉️ mtayyabsajjad76@gmail.com For Collaboration/Project or Anything Else. 😍 😍
+
 🔭 I’m currently working on: DSA-Interactive-University-Assistant
+
 🌱 I’m currently learning: Cloud Security Architect
+
 👯 I’m looking to collaborate on: Full-Stack React / Next.js Developer
+
 🤔 I’m looking for help with: Multi-Cloud Zero Trust Network
+
 💬 Ask me about: Collaboration, Tech Support
+
 📫 How to reach me: Enter your email here
+
 😄 Pronouns: HT7
+
 ⚡ Fun fact: I Love Tech and Tech Love Me
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tayabsajjadoffical) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_tayyab043) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tayyabsajjadoffical) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/m-tayyab) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mtayyabsajjad76@gmail.com) 
