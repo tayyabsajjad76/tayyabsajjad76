@@ -13,8 +13,6 @@ Email Me 👉 ✉️ mtayyabsajjad76@gmail.com For Collaboration/Project or Anyt
 
 💬 Ask me about: Collaboration, Tech Support
 
-📫 How to reach me: Enter your email here
-
 📫 **How to reach me:** [mtayyabsajjad76@gmail.com](mailto:mtayyabsajjad76@gmail.com)
 
 😄 Pronouns: HT7
