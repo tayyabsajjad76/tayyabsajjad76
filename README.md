@@ -3,7 +3,7 @@ A passionate FullStack Web Developer || App Developer || Future Cloud Security A
 
 Email Me 👉 ✉️ mtayyabsajjad76@gmail.com For Collaboration/Project or Anything Else. 😍 😍
 
-🔭 I’m currently working on: DSA-Interactive-University-Assistant
+🔭 I’m currently working on: SkillRise 2.0 - Ai powered Student Companion (From Campus to Career)
 
 🌱 I’m currently learning: Cloud Security Architect
 
